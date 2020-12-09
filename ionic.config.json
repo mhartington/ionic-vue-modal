@@ -1,0 +1,7 @@
+{
+  "name": "tmp-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
